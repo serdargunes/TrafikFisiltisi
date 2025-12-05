@@ -4,12 +4,19 @@ Uygulama, ihlale ait plaka, şehir, açıklama ve fotoğraf kaydı alarak bunlar
 
 ## **Özellikler**  
 ✔ Trafikte görülen ihlallerin kayıt altına alınması
+
 ✔ Şehir seçimi veya elle şehir yazma
+
 ✔ Plaka giriş formatlama (örn: 34ABC123)
+
 ✔ Kanıt fotoğrafı çekme veya galeri seçme
+
 ✔ Kaydedilen ihlalleri listeleme
+
 ✔ Plakaya göre sorgulama
+
 ✔ Uygulama çıkış yaptığında kayıtlar saklanır
+
 ✔ Modern, sade ve kullanıcı dostu UI
 
 
