@@ -23,6 +23,13 @@ Uygulama, ihlale ait plaka, şehir, açıklama ve fotoğraf kaydı alarak bunlar
 
 ![ApplicationImage](https://github.com/serdargunes/TrafikFisiltisi/blob/main/assets/images/UygulamaGrseli.jpg)
 
+##| Teknoloji        | Kullanım Amacı           |
+| ---------------- | ------------------------ |
+| React Native     | Mobil arayüz geliştirme  |
+| Expo             | Çalıştırma, debug, build |
+| AsyncStorage     | Yerel veri saklama       |
+| React Navigation | Sayfalar arası geçiş     |
+| Expo ImagePicker | Fotoğraf çekme/seçme     |
 
 
 
