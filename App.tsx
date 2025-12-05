@@ -6,6 +6,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 // Ekranlar
 import ComplaintListScreen from './src/screens/ComplaintListScreen';
+import FeedbackScreen from './src/screens/FeedbackScreen';
 import HomeScreen from './src/screens/HomeScreen';
 import MainScreen from './src/screens/MainScreen';
 
@@ -47,6 +48,11 @@ function App() {
           name="ComplaintList"
           component={ComplaintListScreen}
           options={{ title: '📄 Şikayet Listesi' }}
+        />
+        <Stack.Screen
+          name="Feedback"
+          component={FeedbackScreen}
+          options={{ title: '💬 Geri Bildirim Gönder' }}
         />
 
       </Stack.Navigator>

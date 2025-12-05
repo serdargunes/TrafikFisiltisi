@@ -52,6 +52,14 @@ const MainScreen = ({ navigation }) => {
           >
             <Text style={styles.secondaryButtonText}>📢 Şikayet Gönder</Text>
           </TouchableOpacity>
+
+          <TouchableOpacity
+            style={styles.secondaryButton}
+            onPress={() => navigation.navigate("Feedback")}
+          >
+            <Text style={styles.secondaryButtonText}>💬 Geri Bildirim Bırak</Text>
+          </TouchableOpacity>
+
         </View>
       </View>
     </SafeAreaView>
