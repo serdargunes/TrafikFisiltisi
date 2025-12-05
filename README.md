@@ -37,11 +37,11 @@ Uygulama, ihlale ait plaka, şehir, açıklama ve fotoğraf kaydı alarak bunlar
 
 Bu projeyi klonlayın:  
 ```bash
-git clone https://github.com/serdargunes/HomeDesignMobile.git
-cd HomeDesignMobile
+git clone https://github.com/serdargunes/TrafikFisiltisi.git
 
 Gerekli Paketler İçin:
 npm install
+pod install
 
 Expo İle Uygulamayı Başlatın:
 npx expo start
