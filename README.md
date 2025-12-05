@@ -21,7 +21,7 @@ Uygulama, ihlale ait plaka, şehir, açıklama ve fotoğraf kaydı alarak bunlar
 
 
 
-![ApplicationImage]([(https://github.com/serdargunes/TrafikFisiltisi/blob/main/assets/images/UygulamaGrseli.jpg))]
+![ApplicationImage](https://github.com/serdargunes/TrafikFisiltisi/blob/main/assets/images/UygulamaGrseli.jpg)
 
 
 
